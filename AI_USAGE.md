@@ -12,7 +12,7 @@ No AI tools were used.
 
 ## Conversation links
 
-- [Link 1:](https://chatgpt.com/share/6b037609-299c-83ed-b80f-8b2fdfb99c77)
+- [Link 1:] (https://chatgpt.com/share/6b037609-299c-83ed-b80f-8b2fdfb99c77)
 
 
 ## What I used them for
